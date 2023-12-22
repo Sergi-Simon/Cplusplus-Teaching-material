@@ -1,0 +1,846 @@
+Testing conjugates: test number 0
+The quaternion is 0.666667	0.35	1	0.666667
+The presumed conjugate is 0.666667	-0.35	-1	-0.666667
+The difference is 1.110223024625157e-16
+Test passed 
+Testing conjugates: test number 1
+The quaternion is 0.6923076923076923	0.95	0.3	0.25
+The presumed conjugate is 0.6923076923076923	-0.95	-0.3	-0.25
+The difference is 0
+Test passed 
+Testing conjugates: test number 2
+The quaternion is 2.666666666666667	0.07142857142857142	1.666666666666667	4.5
+The presumed conjugate is 2.666666666666667	-0.07142857142857142	-1.666666666666667	-4.5
+The difference is 0
+Test passed 
+Testing conjugates: test number 3
+The quaternion is 3.5	0.05	4	1
+The presumed conjugate is 3.5	-0.05	-4	-1
+The difference is 0
+Test passed 
+Testing conjugates: test number 4
+The quaternion is 0.9230769230769231	1.454545454545455	0.85	0.75
+The presumed conjugate is 0.9230769230769231	-1.454545454545455	-0.85	-0.75
+The difference is 0
+Test passed 
+Testing conjugates: test number 5
+The quaternion is 12	1.833333333333333	1	1.818181818181818
+The presumed conjugate is 12	-1.833333333333333	-1	-1.818181818181818
+The difference is 2.220446049250313e-16
+Test passed 
+Testing conjugates: test number 6
+The quaternion is 0.2	1.3	1	1.266666666666667
+The presumed conjugate is 0.2	-1.3	-1	-1.266666666666667
+The difference is 0
+Test passed 
+Testing conjugates: test number 7
+The quaternion is 0.6	0.5	0.1	2.5
+The presumed conjugate is 0.6	-0.5	-0.1	-2.5
+The difference is 0
+Test passed 
+Testing conjugates: test number 8
+The quaternion is 1.545454545454545	0.7857142857142857	2.5	7
+The presumed conjugate is 1.545454545454545	-0.7857142857142857	-2.5	-7
+The difference is 0
+Test passed 
+Testing conjugates: test number 9
+The quaternion is 0.4375	2.666666666666667	0.8	1.055555555555556
+The presumed conjugate is 0.4375	-2.666666666666667	-0.8	-1.055555555555556
+The difference is 2.220446049250313e-16
+Test passed 
+Testing conjugates: test number 10
+The quaternion is 0.75	1.6	0.6666666666666666	2
+The presumed conjugate is 0.75	-1.6	-0.6666666666666666	-2
+The difference is 0
+Test passed 
+Testing conjugates: test number 11
+The quaternion is 2.4	0.4	6	1.176470588235294
+The presumed conjugate is 2.4	-0.4	-6	-1.176470588235294
+The difference is 2.220446049250313e-16
+Test passed 
+Testing conjugates: test number 12
+The quaternion is 0.5	8	0.5555555555555556	1.625
+The presumed conjugate is 0.5	-8	-0.5555555555555556	-1.625
+The difference is 0
+Test passed 
+Testing conjugates: test number 13
+The quaternion is 10	0.1875	0.3	11
+The presumed conjugate is 10	-0.1875	-0.3	-11
+The difference is 0
+Test passed 
+Testing conjugates: test number 14
+The quaternion is 0.8	0.5555555555555556	0.3	0.2666666666666667
+The presumed conjugate is 0.8	-0.5555555555555556	-0.3	-0.2666666666666667
+The difference is 5.551115123125783e-17
+Test passed 
+Testing conjugates: test number 15
+The quaternion is 15	2.222222222222222	0.8333333333333334	4
+The presumed conjugate is 15	-2.222222222222222	-0.8333333333333334	-4
+The difference is 0
+Test passed 
+Testing conjugates: test number 16
+The quaternion is 0.7777777777777778	0.3684210526315789	0.7333333333333333	0.9411764705882353
+The presumed conjugate is 0.7777777777777778	-0.3684210526315789	-0.7333333333333333	-0.9411764705882352
+The difference is 1.110223024625157e-16
+Test passed 
+Testing conjugates: test number 17
+The quaternion is 4.75	0.4444444444444444	1.333333333333333	1
+The presumed conjugate is 4.75	-0.4444444444444444	-1.333333333333333	-1
+The difference is 0
+Test passed 
+Testing conjugates: test number 18
+The quaternion is 4.5	0.3125	0.2352941176470588	1.4
+The presumed conjugate is 4.5	-0.3125	-0.2352941176470588	-1.4
+The difference is 2.220446049250313e-16
+Test passed 
+Testing conjugates: test number 19
+The quaternion is 1.0625	0.7272727272727273	0.2	2.285714285714286
+The presumed conjugate is 1.0625	-0.7272727272727273	-0.2	-2.285714285714286
+The difference is 0
+Test passed 
+
+Testing inverses: test number 0
+The quaternion is 0.6666666666666666	0.35	1	0.6666666666666666
+The product Q*Qinv is 0.9999999999999997	0	0	0
+The product Qinv*Q is 0.9999999999999997	0	0	0
+The differences are 3.33066907387547e-16	3.33066907387547e-16
+Test passed 
+Testing inverses: test number 1
+The quaternion is 0.6923076923076923	0.95	0.3	0.25
+The product Q*Qinv is 0.9999999999999999	0	0	0
+The product Qinv*Q is 0.9999999999999999	0	0	0
+The differences are 1.110223024625157e-16	1.110223024625157e-16
+Test passed 
+Testing inverses: test number 2
+The quaternion is 2.666666666666667	0.07142857142857142	1.666666666666667	4.5
+The product Q*Qinv is 1	-2.775557561562891e-17	1.734723475976807e-18	0
+The product Qinv*Q is 1	2.775557561562891e-17	-1.734723475976807e-18	0
+The differences are 2.237793284010081e-16	2.237793284010081e-16
+Test passed 
+Testing inverses: test number 3
+The quaternion is 3.5	0.05	4	1
+The product Q*Qinv is 1	0	0	0
+The product Qinv*Q is 1	0	0	0
+The differences are 2.220446049250313e-16	2.220446049250313e-16
+Test passed 
+Testing inverses: test number 4
+The quaternion is 0.9230769230769231	1.454545454545455	0.85	0.75
+The product Q*Qinv is 0.9999999999999998	0	-5.551115123125783e-17	0
+The product Qinv*Q is 0.9999999999999998	0	5.551115123125783e-17	0
+The differences are 2.288783399261119e-16	2.288783399261119e-16
+Test passed 
+Testing inverses: test number 5
+The quaternion is 12	1.833333333333333	1	1.818181818181818
+The product Q*Qinv is 1	2.775557561562891e-17	0	2.775557561562891e-17
+The product Qinv*Q is 1	2.775557561562891e-17	0	2.775557561562891e-17
+The differences are 3.925231146709438e-17	3.925231146709438e-17
+Test passed 
+Testing inverses: test number 6
+The quaternion is 0.2	1.3	1	1.266666666666667
+The product Q*Qinv is 0.9999999999999998	0	0	0
+The product Qinv*Q is 0.9999999999999998	0	0	0
+The differences are 2.220446049250313e-16	2.220446049250313e-16
+Test passed 
+Testing inverses: test number 7
+The quaternion is 0.6	0.5	0.1	2.5
+The product Q*Qinv is 0.9999999999999999	-6.938893903907228e-18	0	0
+The product Qinv*Q is 0.9999999999999999	6.938893903907228e-18	0	0
+The differences are 1.112389315513593e-16	1.112389315513593e-16
+Test passed 
+Testing inverses: test number 8
+The quaternion is 1.545454545454545	0.7857142857142857	2.5	7
+The product Q*Qinv is 0.9999999999999999	0	1.387778780781446e-17	0
+The product Qinv*Q is 0.9999999999999999	0	-1.387778780781446e-17	0
+The differences are 1.118863022827952e-16	1.118863022827952e-16
+Test passed 
+Testing inverses: test number 9
+The quaternion is 0.4375	2.666666666666667	0.8	1.055555555555556
+The product Q*Qinv is 1	1.387778780781446e-17	0	-2.775557561562891e-17
+The product Qinv*Q is 1	-1.387778780781446e-17	0	2.775557561562891e-17
+The differences are 3.103167691559091e-17	3.103167691559091e-17
+Test passed 
+Testing inverses: test number 10
+The quaternion is 0.75	1.6	0.6666666666666666	2
+The product Q*Qinv is 1	0	0	0
+The product Qinv*Q is 1	0	0	0
+The differences are 2.220446049250313e-16	2.220446049250313e-16
+Test passed 
+Testing inverses: test number 11
+The quaternion is 2.4	0.4	6	1.176470588235294
+The product Q*Qinv is 0.9999999999999999	0	0	-1.387778780781446e-17
+The product Qinv*Q is 0.9999999999999999	0	0	1.387778780781446e-17
+The differences are 1.118863022827952e-16	1.118863022827952e-16
+Test passed 
+Testing inverses: test number 12
+The quaternion is 0.5	8	0.5555555555555556	1.625
+The product Q*Qinv is 1	0	0	0
+The product Qinv*Q is 1	0	0	0
+The differences are 2.220446049250313e-16	2.220446049250313e-16
+Test passed 
+Testing inverses: test number 13
+The quaternion is 10	0.1875	0.3	11
+The product Q*Qinv is 1	0	0	0
+The product Qinv*Q is 1	0	0	0
+The differences are 2.220446049250313e-16	2.220446049250313e-16
+Test passed 
+Testing inverses: test number 14
+The quaternion is 0.8	0.5555555555555556	0.3	0.2666666666666667
+The product Q*Qinv is 1	-6.938893903907228e-17	0	0
+The product Qinv*Q is 1	-4.163336342344337e-17	5.551115123125783e-17	0
+The differences are 6.938893903907228e-17	6.938893903907228e-17
+Test passed 
+Testing inverses: test number 15
+The quaternion is 15	2.222222222222222	0.8333333333333334	4
+The product Q*Qinv is 1	0	-6.938893903907228e-18	0
+The product Qinv*Q is 1	0	-6.938893903907228e-18	0
+The differences are 6.938893903907228e-18	6.938893903907228e-18
+Test passed 
+Testing inverses: test number 16
+The quaternion is 0.7777777777777778	0.3684210526315789	0.7333333333333333	0.9411764705882353
+The product Q*Qinv is 0.9999999999999998	-5.551115123125783e-17	0	-5.551115123125783e-17
+The product Qinv*Q is 0.9999999999999998	5.551115123125783e-17	0	-5.551115123125783e-17
+The differences are 2.355138688025662e-16	2.355138688025662e-16
+Test passed 
+Testing inverses: test number 17
+The quaternion is 4.75	0.4444444444444444	1.333333333333333	1
+The product Q*Qinv is 0.9999999999999999	1.387778780781446e-17	2.775557561562891e-17	0
+The product Qinv*Q is 0.9999999999999999	1.387778780781446e-17	2.775557561562891e-17	0
+The differences are 1.152775633689051e-16	1.152775633689051e-16
+Test passed 
+Testing inverses: test number 18
+The quaternion is 4.5	0.3125	0.2352941176470588	1.4
+The product Q*Qinv is 1	1.214306433183765e-17	3.469446951953614e-18	0
+The product Qinv*Q is 1	1.561251128379126e-17	-3.469446951953614e-18	0
+The differences are 2.224034569196999e-16	2.226198422132496e-16
+Test passed 
+Testing inverses: test number 19
+The quaternion is 1.0625	0.7272727272727273	0.2	2.285714285714286
+The product Q*Qinv is 1	-1.387778780781446e-17	0	-5.204170427930421e-17
+The product Qinv*Q is 1	1.387778780781446e-17	0	-5.898059818321144e-17
+The differences are 5.386030058153477e-17	6.059128614320848e-17
+Test passed 
+
+Testing norms of scalar products: test number 0
+The quaternion is 0.6666666666666666	0.35	1	0.6666666666666666
+The scalar is 0.6923076923076923
+The norm of the product is 0.981854603054068
+The product of norms is 0.9818546030540681
+The difference is -1.110223024625157e-16
+Test passed 
+Testing norms of scalar products: test number 1
+The quaternion is 0.95	0.3	0.25	2.666666666666667
+The scalar is 0.07142857142857142
+The norm of the product is 0.2041172021157121
+The product of norms is 0.2041172021157121
+The difference is 0
+Test passed 
+Testing norms of scalar products: test number 2
+The quaternion is 1.666666666666667	4.5	3.5	0.05
+The scalar is 4
+The norm of the product is 23.7588813803269
+The product of norms is 23.7588813803269
+The difference is 0
+Test passed 
+Testing norms of scalar products: test number 3
+The quaternion is 1	0.9230769230769231	1.454545454545455	0.85
+The scalar is 0.75
+The norm of the product is 1.624277942796891
+The product of norms is 1.624277942796891
+The difference is -2.220446049250313e-16
+Test passed 
+Testing norms of scalar products: test number 4
+The quaternion is 12	1.833333333333333	1	1.818181818181818
+The scalar is 0.2
+The norm of the product is 2.463062291011562
+The product of norms is 2.463062291011562
+The difference is 0
+Test passed 
+Testing norms of scalar products: test number 5
+The quaternion is 1.3	1	1.266666666666667	0.6
+The scalar is 0.5
+The norm of the product is 1.07870807501896
+The product of norms is 1.07870807501896
+The difference is 0
+Test passed 
+Testing norms of scalar products: test number 6
+The quaternion is 0.1	2.5	1.545454545454545	0.7857142857142857
+The scalar is 2.5
+The norm of the product is 7.609934580386362
+The product of norms is 7.609934580386362
+The difference is 0
+Test passed 
+Testing norms of scalar products: test number 7
+The quaternion is 7	0.4375	2.666666666666667	0.8
+The scalar is 1.055555555555556
+The norm of the product is 7.965250293929357
+The product of norms is 7.965250293929357
+The difference is -8.881784197001252e-16
+Test passed 
+Testing norms of scalar products: test number 8
+The quaternion is 0.75	1.6	0.6666666666666666	2
+The scalar is 2.4
+The norm of the product is 6.601939109079998
+The product of norms is 6.601939109079998
+The difference is 0
+Test passed 
+Testing norms of scalar products: test number 9
+The quaternion is 0.4	6	1.176470588235294	0.5
+The scalar is 8
+The norm of the product is 49.18151395472584
+The product of norms is 49.18151395472584
+The difference is 0
+Test passed 
+Testing norms of scalar products: test number 10
+The quaternion is 0.5555555555555556	1.625	10	0.1875
+The scalar is 0.3
+The norm of the product is 3.044437237040333
+The product of norms is 3.044437237040333
+The difference is 0
+Test passed 
+Testing norms of scalar products: test number 11
+The quaternion is 11	0.8	0.5555555555555556	0.3
+The scalar is 0.2666666666666667
+The norm of the product is 2.945896031660873
+The product of norms is 2.945896031660873
+The difference is -4.440892098500626e-16
+Test passed 
+Testing norms of scalar products: test number 12
+The quaternion is 15	2.222222222222222	0.8333333333333334	4
+The scalar is 0.7777777777777778
+The norm of the product is 12.21464567509615
+The product of norms is 12.21464567509615
+The difference is -1.77635683940025e-15
+Test passed 
+Testing norms of scalar products: test number 13
+The quaternion is 0.3684210526315789	0.7333333333333333	0.9411764705882353	4.75
+The scalar is 0.4444444444444444
+The norm of the product is 2.182843315034971
+The product of norms is 2.182843315034971
+The difference is 0
+Test passed 
+Testing norms of scalar products: test number 14
+The quaternion is 1.333333333333333	1	4.5	0.3125
+The scalar is 0.2352941176470588
+The norm of the product is 1.131503798415422
+The product of norms is 1.131503798415422
+The difference is 0
+Test passed 
+Testing norms of scalar products: test number 15
+The quaternion is 1.4	1.0625	0.7272727272727273	0.2
+The scalar is 2.285714285714286
+The norm of the product is 4.371533515728371
+The product of norms is 4.371533515728371
+The difference is 0
+Test passed 
+Testing norms of scalar products: test number 16
+The quaternion is 1.583333333333333	3.333333333333333	0.1578947368421053	2.571428571428572
+The scalar is 1.2
+The norm of the product is 5.400697448484736
+The product of norms is 5.400697448484736
+The difference is 0
+Test passed 
+Testing norms of scalar products: test number 17
+The quaternion is 1.363636363636364	1.0625	2.285714285714286	0.09090909090909091
+The scalar is 3.25
+The norm of the product is 9.318586347731973
+The product of norms is 9.318586347731973
+The difference is 0
+Test passed 
+Testing norms of scalar products: test number 18
+The quaternion is 0.05263157894736842	0.6666666666666666	1.833333333333333	0.25
+The scalar is 0.1875
+The norm of the product is 0.3688952613670607
+The product of norms is 0.3688952613670607
+The difference is 0
+Test passed 
+Testing norms of scalar products: test number 19
+The quaternion is 2.2	0.1176470588235294	0.875	0.2727272727272727
+The scalar is 0.7272727272727273
+The norm of the product is 1.735402265337832
+The product of norms is 1.735402265337833
+The difference is -2.220446049250313e-16
+Test passed 
+
+Testing norms of products: test number 0
+The first quaternion is 0.6666666666666666	0.35	1	0.6666666666666666
+The second quaternion is 0.6923076923076923	0.95	0.3	0.25
+The product is -0.3376282051282051	0.9256410256410257	1.438141025641026	-0.2167948717948718
+The norm of the product is 1.756716749882075
+The product of norms is 1.756716749882075
+The difference is 0
+Test passed 
+Testing norms of products: test number 1
+The first quaternion is 2.666666666666667	0.07142857142857142	1.666666666666667	4.5
+The second quaternion is 3.5	0.05	4	1
+The product is -1.836904761904763	-15.95	16.65357142857143	18.61904761904762
+The norm of the product is 29.69490014583652
+The product of norms is 29.69490014583652
+The difference is 3.552713678800501e-15
+Test passed 
+Testing norms of products: test number 2
+The first quaternion is 0.9230769230769231	1.454545454545455	0.85	0.75
+The second quaternion is 12	1.833333333333333	1	1.818181818181818
+The product is 6.196620046620048	19.94230769230769	9.853448823903369	10.5745337995338
+The norm of the product is 25.39694774770412
+The product of norms is 25.39694774770413
+The difference is -3.552713678800501e-15
+Test passed 
+Testing norms of products: test number 3
+The first quaternion is 0.2	1.3	1	1.266666666666667
+The second quaternion is 0.6	0.5	0.1	2.5
+The product is -3.796666666666666	3.253333333333333	-1.996666666666667	0.8899999999999997
+The norm of the product is 5.456888612875778
+The product of norms is 5.456888612875778
+The difference is 0
+Test passed 
+Testing norms of products: test number 4
+The first quaternion is 1.545454545454545	0.7857142857142857	2.5	7
+The second quaternion is 0.4375	2.666666666666667	0.8	1.055555555555556
+The product is -10.80799062049062	1.50385101010101	20.16741522366522	-1.344282106782106
+The norm of the product is 22.96967479742657
+The product of norms is 22.96967479742657
+The difference is -3.552713678800501e-15
+Test passed 
+Testing norms of products: test number 5
+The first quaternion is 0.75	1.6	0.6666666666666666	2
+The second quaternion is 2.4	0.4	6	1.176470588235294
+The product is -5.192941176470589	-7.075686274509804	5.017647058823528	15.0156862745098
+The norm of the product is 18.10192229071246
+The product of norms is 18.10192229071246
+The difference is 0
+Test passed 
+Testing norms of products: test number 6
+The first quaternion is 0.5	8	0.5555555555555556	1.625
+The second quaternion is 10	0.1875	0.3	11
+The product is -14.54166666666667	85.71736111111112	-81.98975694444445	24.04583333333333
+The norm of the product is 121.8993372000053
+The product of norms is 121.8993372000053
+The difference is 2.842170943040401e-14
+Test passed 
+Testing norms of products: test number 7
+The first quaternion is 0.8	0.5555555555555556	0.3	0.2666666666666667
+The second quaternion is 15	2.222222222222222	0.8333333333333334	4
+The product is 9.448765432098766	11.08888888888889	3.537037037037037	6.996296296296296
+The norm of the product is 16.54392389513108
+The product of norms is 16.54392389513108
+The difference is -3.552713678800501e-15
+Test passed 
+Testing norms of products: test number 8
+The first quaternion is 0.7777777777777778	0.3684210526315789	0.7333333333333333	0.9411764705882353
+The second quaternion is 4.75	0.4444444444444444	1.333333333333333	1
+The product is 1.611747506019952	1.574110384894698	4.570249971333562	5.413668157321408
+The norm of the product is 7.434415998924534
+The product of norms is 7.434415998924534
+The difference is 0
+Test passed 
+Testing norms of products: test number 9
+The first quaternion is 4.5	0.3125	0.2352941176470588	1.4
+The second quaternion is 1.0625	0.7272727272727273	0.2	2.285714285714286
+The product is 1.306918449197861	3.862573648777694	1.453896103896104	11.66459129106188
+The norm of the product is 12.44202615708255
+The product of norms is 12.44202615708255
+The difference is 0
+Test passed 
+Testing norms of products: test number 10
+The first quaternion is 1.583333333333333	3.333333333333333	0.1578947368421053	2.571428571428572
+The second quaternion is 1.2	1.363636363636364	1.0625	2.285714285714286
+The product is -8.690768723757445	3.787850307587149	-2.240788761676919	10.03111756664388
+The norm of the product is 13.98290831239402
+The product of norms is 13.98290831239402
+The difference is -1.77635683940025e-15
+Test passed 
+Testing norms of products: test number 11
+The first quaternion is 0.09090909090909091	3.25	0.05263157894736842	0.6666666666666666
+The second quaternion is 1.833333333333333	0.25	0.1875	2.2
+The product is -2.122368421052632	5.971850079744816	-6.869796650717704	2.01843932748538
+The norm of the product is 9.562198723650404
+The product of norms is 9.562198723650406
+The difference is -1.77635683940025e-15
+Test passed 
+Testing norms of products: test number 12
+The first quaternion is 0.1176470588235294	0.875	0.2727272727272727	0.7272727272727273
+The second quaternion is 1.2	7	0.5555555555555556	0.9
+The product is -6.78988413547237	1.714943553178848	4.696041295306001	-0.4443701723113487
+The norm of the product is 8.443567176317623
+The product of norms is 8.443567176317622
+The difference is 1.77635683940025e-15
+Test passed 
+Testing norms of products: test number 13
+The first quaternion is 0.1666666666666667	2.375	2	0.9375
+The second quaternion is 3.4	0.1666666666666667	2.833333333333333	0.2222222222222222
+The product is -5.704166666666667	5.890972222222222	6.900694444444444	9.62037037037037
+The norm of the product is 14.40181172501542
+The product of norms is 14.40181172501542
+The difference is -1.77635683940025e-15
+Test passed 
+Testing norms of products: test number 14
+The first quaternion is 16	0.1875	0.9333333333333333	2.285714285714286
+The second quaternion is 5	1	0.4117647058823529	4
+The product is 70.28532913165266	19.7296568627451	12.7906162464986	74.57244397759104
+The norm of the product is 105.1377007349055
+The product of norms is 105.1377007349055
+The difference is 0
+Test passed 
+Testing norms of products: test number 15
+The first quaternion is 2	2.714285714285714	0.65	2
+The second quaternion is 1	20	0.2727272727272727	4.25
+The product is -60.96298701298702	44.93133116883117	29.65974025974026	-1.75974025974026
+The norm of the product is 81.35174973045025
+The product of norms is 81.35174973045024
+The difference is 1.4210854715202e-14
+Test passed 
+Testing norms of products: test number 16
+The first quaternion is 0.5833333333333334	1.818181818181818	1.142857142857143	0.3333333333333333
+The second quaternion is 1.090909090909091	0.1764705882352941	0.09090909090909091	0.5
+The product is 0.04494525082760378	2.627537791976295	0.4495161701044051	0.6189116142324698
+The norm of the product is 2.736985805087924
+The product of norms is 2.736985805087924
+The difference is 0
+Test passed 
+Testing norms of products: test number 17
+The first quaternion is 0.631578947368421	2.111111111111111	0.3333333333333333	0.6923076923076923
+The second quaternion is 10	0.7692307692307693	0.9230769230769231	0.9411764705882353
+The product is 3.732581831653039	21.27161330638349	2.461945558873399	9.20981185996666
+The norm of the product is 23.6071071971374
+The product of norms is 23.6071071971374
+The difference is 0
+Test passed 
+Testing norms of products: test number 18
+The first quaternion is 0.6428571428571429	2	1.166666666666667	0.06666666666666667
+The second quaternion is 2.142857142857143	2	0.8	0.9230769230769231
+The product is -3.617320774463631	6.595018315018314	1.301465201465201	0.00293040293040292
+The norm of the product is 7.633681707975475
+The product of norms is 7.633681707975476
+The difference is -8.881784197001252e-16
+Test passed 
+Testing norms of products: test number 19
+The first quaternion is 0.9230769230769231	0.3125	0.6666666666666666	0.5263157894736842
+The second quaternion is 1.25	0.4545454545454545	7.5	17
+The product is -12.93556772175193	8.19617033186112	2.683144706171022	18.3909221261195
+The norm of the product is 24.08176493856205
+The product of norms is 24.08176493856205
+The difference is 0
+Test passed 
+
+Testing scalar products of imaginary quaternions: test number 0
+The first quaternion is 0	0.6666666666666666	0.35	1
+The second quaternion is 0	0.6666666666666666	0.6923076923076923	0.95
+The scalar product is 1.636752136752137
+The first vector version of the scalar product is 1.636752136752137	0	0	0
+The second vector version of the scalar product is 1.636752136752137	0	0	0
+The difference is 0	0
+The rests are is 0	0
+Test passed 
+Testing scalar products of imaginary quaternions: test number 1
+The first quaternion is 0	0.3	0.25	2.666666666666667
+The second quaternion is 0	0.07142857142857142	1.666666666666667	4.5
+The scalar product is 12.43809523809524
+The first vector version of the scalar product is 12.43809523809524	0	0	0
+The second vector version of the scalar product is 12.43809523809524	0	0	0
+The difference is 0	0
+The rests are is 0	0
+Test passed 
+Testing scalar products of imaginary quaternions: test number 2
+The first quaternion is 0	3.5	0.05	4
+The second quaternion is 0	1	0.9230769230769231	1.454545454545455
+The scalar product is 9.364335664335664
+The first vector version of the scalar product is 9.364335664335664	0	0	0
+The second vector version of the scalar product is 9.364335664335664	0	0	0
+The difference is 0	0
+The rests are is 0	0
+Test passed 
+Testing scalar products of imaginary quaternions: test number 3
+The first quaternion is 0	0.85	0.75	12
+The second quaternion is 0	1.833333333333333	1	1.818181818181818
+The scalar product is 24.12651515151515
+The first vector version of the scalar product is 24.12651515151515	0	0	0
+The second vector version of the scalar product is 24.12651515151515	0	0	0
+The difference is 0	0
+The rests are is 0	0
+Test passed 
+Testing scalar products of imaginary quaternions: test number 4
+The first quaternion is 0	0.2	1.3	1
+The second quaternion is 0	1.266666666666667	0.6	0.5
+The scalar product is 1.533333333333333
+The first vector version of the scalar product is 1.533333333333333	0	0	0
+The second vector version of the scalar product is 1.533333333333333	0	0	0
+The difference is 0	0
+The rests are is 0	0
+Test passed 
+Testing scalar products of imaginary quaternions: test number 5
+The first quaternion is 0	0.1	2.5	1.545454545454545
+The second quaternion is 0	0.7857142857142857	2.5	7
+The scalar product is 17.14675324675325
+The first vector version of the scalar product is 17.14675324675325	0	0	0
+The second vector version of the scalar product is 17.14675324675325	0	0	0
+The difference is 0	0
+The rests are is 0	0
+Test passed 
+Testing scalar products of imaginary quaternions: test number 6
+The first quaternion is 0	0.4375	2.666666666666667	0.8
+The second quaternion is 0	1.055555555555556	0.75	1.6
+The scalar product is 3.741805555555556
+The first vector version of the scalar product is 3.741805555555556	0	0	0
+The second vector version of the scalar product is 3.741805555555556	0	0	0
+The difference is 0	0
+The rests are is 0	0
+Test passed 
+Testing scalar products of imaginary quaternions: test number 7
+The first quaternion is 0	0.6666666666666666	2	2.4
+The second quaternion is 0	0.4	6	1.176470588235294
+The scalar product is 15.09019607843137
+The first vector version of the scalar product is 15.09019607843137	0	0	0
+The second vector version of the scalar product is 15.09019607843137	0	0	0
+The difference is 0	0
+The rests are is 0	0
+Test passed 
+Testing scalar products of imaginary quaternions: test number 8
+The first quaternion is 0	0.5	8	0.5555555555555556
+The second quaternion is 0	1.625	10	0.1875
+The scalar product is 80.91666666666667
+The first vector version of the scalar product is 80.91666666666667	0	0	0
+The second vector version of the scalar product is 80.91666666666667	0	0	0
+The difference is 0	0
+The rests are is 0	0
+Test passed 
+Testing scalar products of imaginary quaternions: test number 9
+The first quaternion is 0	0.3	11	0.8
+The second quaternion is 0	0.5555555555555556	0.3	0.2666666666666667
+The scalar product is 3.68
+The first vector version of the scalar product is 3.68	0	0	0
+The second vector version of the scalar product is 3.68	0	0	0
+The difference is 0	0
+The rests are is 0	0
+Test passed 
+Testing scalar products of imaginary quaternions: test number 10
+The first quaternion is 0	15	2.222222222222222	0.8333333333333334
+The second quaternion is 0	4	0.7777777777777778	0.3684210526315789
+The scalar product is 62.03541260558804
+The first vector version of the scalar product is 62.03541260558804	0	0	0
+The second vector version of the scalar product is 62.03541260558804	0	0	0
+The difference is 0	0
+The rests are is 0	0
+Test passed 
+Testing scalar products of imaginary quaternions: test number 11
+The first quaternion is 0	0.7333333333333333	0.9411764705882353	4.75
+The second quaternion is 0	0.4444444444444444	1.333333333333333	1
+The scalar product is 6.33082788671024
+The first vector version of the scalar product is 6.33082788671024	0	0	0
+The second vector version of the scalar product is 6.33082788671024	0	0	0
+The difference is 0	0
+The rests are is 0	0
+Test passed 
+Testing scalar products of imaginary quaternions: test number 12
+The first quaternion is 0	4.5	0.3125	0.2352941176470588
+The second quaternion is 0	1.4	1.0625	0.7272727272727273
+The scalar product is 6.803154244652406
+The first vector version of the scalar product is 6.803154244652406	0	0	0
+The second vector version of the scalar product is 6.803154244652406	0	0	0
+The difference is 0	0
+The rests are is 0	0
+Test passed 
+Testing scalar products of imaginary quaternions: test number 13
+The first quaternion is 0	0.2	2.285714285714286	1.583333333333333
+The second quaternion is 0	3.333333333333333	0.1578947368421053	2.571428571428572
+The scalar product is 5.098997493734336
+The first vector version of the scalar product is 5.098997493734336	0	0	0
+The second vector version of the scalar product is 5.098997493734336	0	0	0
+The difference is 0	0
+The rests are is 0	0
+Test passed 
+Testing scalar products of imaginary quaternions: test number 14
+The first quaternion is 0	1.2	1.363636363636364	1.0625
+The second quaternion is 0	2.285714285714286	0.09090909090909091	3.25
+The scalar product is 6.319949085005902
+The first vector version of the scalar product is 6.319949085005902	0	0	0
+The second vector version of the scalar product is 6.319949085005902	0	0	0
+The difference is 0	0
+The rests are is 0	0
+Test passed 
+Testing scalar products of imaginary quaternions: test number 15
+The first quaternion is 0	0.05263157894736842	0.6666666666666666	1.833333333333333
+The second quaternion is 0	0.25	0.1875	2.2
+The scalar product is 4.171491228070176
+The first vector version of the scalar product is 4.171491228070176	0	0	0
+The second vector version of the scalar product is 4.171491228070176	0	0	0
+The difference is 0	0
+The rests are is 0	0
+Test passed 
+Testing scalar products of imaginary quaternions: test number 16
+The first quaternion is 0	0.1176470588235294	0.875	0.2727272727272727
+The second quaternion is 0	0.7272727272727273	1.2	7
+The scalar product is 3.044652406417112
+The first vector version of the scalar product is 3.044652406417112	0	0	0
+The second vector version of the scalar product is 3.044652406417112	0	0	0
+The difference is 0	0
+The rests are is 0	0
+Test passed 
+Testing scalar products of imaginary quaternions: test number 17
+The first quaternion is 0	0.5555555555555556	0.9	0.1666666666666667
+The second quaternion is 0	2.375	2	0.9375
+The scalar product is 3.275694444444444
+The first vector version of the scalar product is 3.275694444444444	0	0	0
+The second vector version of the scalar product is 3.275694444444444	0	0	0
+The difference is 0	0
+The rests are is 0	0
+Test passed 
+Testing scalar products of imaginary quaternions: test number 18
+The first quaternion is 0	3.4	0.1666666666666667	2.833333333333333
+The second quaternion is 0	0.2222222222222222	16	0.1875
+The scalar product is 3.953472222222222
+The first vector version of the scalar product is 3.953472222222222	0	0	0
+The second vector version of the scalar product is 3.953472222222222	0	0	0
+The difference is 0	0
+The rests are is 0	0
+Test passed 
+Testing scalar products of imaginary quaternions: test number 19
+The first quaternion is 0	0.9333333333333333	2.285714285714286	5
+The second quaternion is 0	1	0.4117647058823529	4
+The scalar product is 21.87450980392157
+The first vector version of the scalar product is 21.87450980392157	0	0	0
+The second vector version of the scalar product is 21.87450980392157	0	0	0
+The difference is 0	0
+The rests are is 0	0
+Test passed 
+
+Testing cross products of imaginary quaternions: test number 0
+The first quaternion is 0	0.6666666666666666	0.35	1
+The second quaternion is 0	0.6666666666666666	0.6923076923076923	0.95
+The cross product is 0	-0.3598076923076923	0.03333333333333333	0.2282051282051282
+The cross product using quaternions is 0	-0.3598076923076923	0.03333333333333333	0.2282051282051282
+The difference is 0
+Test passed 
+Testing cross products of imaginary quaternions: test number 1
+The first quaternion is 0	0.3	0.25	2.666666666666667
+The second quaternion is 0	0.07142857142857142	1.666666666666667	4.5
+The cross product is 0	-3.319444444444445	-1.159523809523809	0.4821428571428572
+The cross product using quaternions is 0	-3.319444444444445	-1.159523809523809	0.4821428571428572
+The difference is 0
+Test passed 
+Testing cross products of imaginary quaternions: test number 2
+The first quaternion is 0	3.5	0.05	4
+The second quaternion is 0	1	0.9230769230769231	1.454545454545455
+The cross product is 0	-3.61958041958042	-1.090909090909091	3.180769230769231
+The cross product using quaternions is 0	-3.61958041958042	-1.090909090909091	3.180769230769231
+The difference is 0
+Test passed 
+Testing cross products of imaginary quaternions: test number 3
+The first quaternion is 0	0.85	0.75	12
+The second quaternion is 0	1.833333333333333	1	1.818181818181818
+The cross product is 0	-10.63636363636364	20.45454545454545	-0.525
+The cross product using quaternions is 0	-10.63636363636364	20.45454545454545	-0.525
+The difference is 0
+Test passed 
+Testing cross products of imaginary quaternions: test number 4
+The first quaternion is 0	0.2	1.3	1
+The second quaternion is 0	1.266666666666667	0.6	0.5
+The cross product is 0	0.05000000000000004	1.166666666666667	-1.526666666666667
+The cross product using quaternions is 0	0.05000000000000004	1.166666666666667	-1.526666666666667
+The difference is 0
+Test passed 
+Testing cross products of imaginary quaternions: test number 5
+The first quaternion is 0	0.1	2.5	1.545454545454545
+The second quaternion is 0	0.7857142857142857	2.5	7
+The cross product is 0	13.63636363636364	0.5142857142857141	-1.714285714285714
+The cross product using quaternions is 0	13.63636363636364	0.5142857142857141	-1.714285714285714
+The difference is 0
+Test passed 
+Testing cross products of imaginary quaternions: test number 6
+The first quaternion is 0	0.4375	2.666666666666667	0.8
+The second quaternion is 0	1.055555555555556	0.75	1.6
+The cross product is 0	3.666666666666667	0.1444444444444445	-2.486689814814815
+The cross product using quaternions is 0	3.666666666666667	0.1444444444444445	-2.486689814814815
+The difference is 0
+Test passed 
+Testing cross products of imaginary quaternions: test number 7
+The first quaternion is 0	0.6666666666666666	2	2.4
+The second quaternion is 0	0.4	6	1.176470588235294
+The cross product is 0	-12.04705882352941	0.1756862745098039	3.2
+The cross product using quaternions is 0	-12.04705882352941	0.1756862745098039	3.2
+The difference is 0
+Test passed 
+Testing cross products of imaginary quaternions: test number 8
+The first quaternion is 0	0.5	8	0.5555555555555556
+The second quaternion is 0	1.625	10	0.1875
+The cross product is 0	-4.055555555555555	0.8090277777777778	-8
+The cross product using quaternions is 0	-4.055555555555555	0.8090277777777778	-8
+The difference is 0
+Test passed 
+Testing cross products of imaginary quaternions: test number 9
+The first quaternion is 0	0.3	11	0.8
+The second quaternion is 0	0.5555555555555556	0.3	0.2666666666666667
+The cross product is 0	2.693333333333333	0.3644444444444445	-6.021111111111112
+The cross product using quaternions is 0	2.693333333333333	0.3644444444444445	-6.021111111111112
+The difference is 0
+Test passed 
+Testing cross products of imaginary quaternions: test number 10
+The first quaternion is 0	15	2.222222222222222	0.8333333333333334
+The second quaternion is 0	4	0.7777777777777778	0.3684210526315789
+The cross product is 0	0.1705653021442495	-2.192982456140351	2.777777777777777
+The cross product using quaternions is 0	0.1705653021442495	-2.192982456140351	2.777777777777777
+The difference is 0
+Test passed 
+Testing cross products of imaginary quaternions: test number 11
+The first quaternion is 0	0.7333333333333333	0.9411764705882353	4.75
+The second quaternion is 0	0.4444444444444444	1.333333333333333	1
+The cross product is 0	-5.392156862745098	1.377777777777778	0.5594771241830064
+The cross product using quaternions is 0	-5.392156862745098	1.377777777777778	0.5594771241830064
+The difference is 0
+Test passed 
+Testing cross products of imaginary quaternions: test number 12
+The first quaternion is 0	4.5	0.3125	0.2352941176470588
+The second quaternion is 0	1.4	1.0625	0.7272727272727273
+The cross product is 0	-0.02272727272727271	-2.94331550802139	4.34375
+The cross product using quaternions is 0	-0.02272727272727271	-2.94331550802139	4.34375
+The difference is 0
+Test passed 
+Testing cross products of imaginary quaternions: test number 13
+The first quaternion is 0	0.2	2.285714285714286	1.583333333333333
+The second quaternion is 0	3.333333333333333	0.1578947368421053	2.571428571428572
+The cross product is 0	5.627551020408164	4.763492063492063	-7.587468671679198
+The cross product using quaternions is 0	5.627551020408164	4.763492063492063	-7.587468671679198
+The difference is 0
+Test passed 
+Testing cross products of imaginary quaternions: test number 14
+The first quaternion is 0	1.2	1.363636363636364	1.0625
+The second quaternion is 0	2.285714285714286	0.09090909090909091	3.25
+The cross product is 0	4.335227272727272	-1.471428571428572	-3.007792207792208
+The cross product using quaternions is 0	4.335227272727272	-1.471428571428572	-3.007792207792208
+The difference is 0
+Test passed 
+Testing cross products of imaginary quaternions: test number 15
+The first quaternion is 0	0.05263157894736842	0.6666666666666666	1.833333333333333
+The second quaternion is 0	0.25	0.1875	2.2
+The cross product is 0	1.122916666666667	0.3425438596491228	-0.1567982456140351
+The cross product using quaternions is 0	1.122916666666667	0.3425438596491228	-0.1567982456140351
+The difference is 0
+Test passed 
+Testing cross products of imaginary quaternions: test number 16
+The first quaternion is 0	0.1176470588235294	0.875	0.2727272727272727
+The second quaternion is 0	0.7272727272727273	1.2	7
+The cross product is 0	5.797727272727273	-0.6251823043266893	-0.4951871657754011
+The cross product using quaternions is 0	5.797727272727273	-0.6251823043266893	-0.4951871657754011
+The difference is 0
+Test passed 
+Testing cross products of imaginary quaternions: test number 17
+The first quaternion is 0	0.5555555555555556	0.9	0.1666666666666667
+The second quaternion is 0	2.375	2	0.9375
+The cross product is 0	0.5104166666666667	-0.1250000000000001	-1.026388888888889
+The cross product using quaternions is 0	0.5104166666666667	-0.1250000000000001	-1.026388888888889
+The difference is 0
+Test passed 
+Testing cross products of imaginary quaternions: test number 18
+The first quaternion is 0	3.4	0.1666666666666667	2.833333333333333
+The second quaternion is 0	0.2222222222222222	16	0.1875
+The cross product is 0	-45.30208333333334	-0.007870370370370305	54.36296296296296
+The cross product using quaternions is 0	-45.30208333333334	-0.007870370370370305	54.36296296296296
+The difference is 0
+Test passed 
+Testing cross products of imaginary quaternions: test number 19
+The first quaternion is 0	0.9333333333333333	2.285714285714286	5
+The second quaternion is 0	1	0.4117647058823529	4
+The cross product is 0	7.084033613445378	1.266666666666667	-1.90140056022409
+The cross product using quaternions is 0	7.084033613445378	1.266666666666667	-1.90140056022409
+The difference is 0
+Test passed 
+
