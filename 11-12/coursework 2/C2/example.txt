@@ -1,0 +1,14 @@
+The matrix has entries
+0+0i	2+0i	3+0i
+1+0i	20+0i	4+0i
+0+0i	1+0i	5+0i
+The initial condition was
+1+0i
+1+0i
+1+0i
+the method converged in 25 iterations using tolerance 1e-15 to eigenvector
+0.1077770980153898+0i
+1+0i
+0.06507003356928713+0i
+having dominant eigenvalue 20.36805723229254+0i
+The norm of the difference Av-lambda v is 1.332267629550188e-15
